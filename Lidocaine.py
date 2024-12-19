@@ -1,0 +1,5 @@
+print("ıM QᴀTǝL RᴀVᴀNı")
+print("KLR Shad")
+print("Member : 1400")
+print("Sik in Binamos Haro Zadam")
+print("Daniel Ryson _ Farmandeh Losifer _ Tailor Mordegan _ Mr Dazai")
